@@ -8,7 +8,7 @@ A compact tour of three classic models—simple code, clear visuals, key takeawa
 - [NaSch](./nasch): traffic flow (coming soon).
 
 **Gallery**
-![Ising](assets/images/Ising_2D.pdf)
+![Ising](assets/images/Ising_2D_vary_H.pdf)
 ![Axelrod](assets/images/Axelrod_Phase_Transition_F_vs_q.pdf)
 ![NaSch](assets/images/nasch_fd.png)
 
