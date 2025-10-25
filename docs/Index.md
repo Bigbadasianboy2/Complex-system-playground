@@ -10,7 +10,7 @@ A compact tour of three classic models—simple code, clear visuals, key takeawa
 **Gallery**
 ![Ising](assets/images/Ising_2D_vary_H.pdf)
 ![Axelrod](assets/images/Axelrod_Phase_Transition_F_vs_q.pdf)
-![NaSch](assets/images/nasch_fd.png)
+![NaSch](assets/images/nasch_fundamental_diagram.png)
 
 **Run the notebooks**
 Open `examples/` in this repository to see short notebooks for each model.
