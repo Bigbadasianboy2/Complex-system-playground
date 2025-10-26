@@ -5,7 +5,7 @@ A compact tour of three classic models—simple code, clear visuals, key takeawa
 **Models**
 - [Ising](./ising): order ↔ disorder on a lattice (1D/2D).
 - [Axelrod](./axelrod): cultural domains, consensus vs fragmentation.
-- [NaSch](./nasch): traffic flow (coming soon).
+- [NaSch](./nasch): traffic flow (fundemental diagram).
 
 **Gallery**
 ![Ising](assets/images/Ising_2D_vary_H.pdf)
