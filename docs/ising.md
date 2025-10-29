@@ -10,5 +10,5 @@
 **Result (example)**
 [Ising snapshot](assets/images/Ising_2D_vary_H.pdf)
 
-**Try it**
-See `examples/ising_2D_different_H.ipynb` for a short notebook and how to plot magnetization vs temperature following metropolis-hastings algorithm. 
+**Try it,**
+See: `examples/ising_2D_different_H.ipynb` for a short notebook and how to plot magnetization vs temperature following metropolis-hastings algorithm. 
