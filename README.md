@@ -14,4 +14,4 @@ Reproductions of classic models in statistical physics & sociophysics:
 - **examples/**   # short notebooks
 - **docs/**       # website pages (served by GitHub Pages)
 
-**Contact:** 26nmao@cacegypt.org
+## Contact: ## 26nmao@cacegypt.org
