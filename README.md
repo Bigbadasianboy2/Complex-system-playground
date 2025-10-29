@@ -5,7 +5,7 @@ Reproductions of classic models in statistical physics & sociophysics:
 - **Axelrod** — cultural domains, consensus vs fragmentation.
 - **NaSch** — traffic flow (coming soon).
 
-**Website:** see the .md files for more detailed instructions.
+**Website:** see the .md files in `docs/` for more detailed instructions.
 
 **Examples:** open `examples/` notebooks and `models/` scripts to reproduce the plots.
 
