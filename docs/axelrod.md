@@ -12,4 +12,4 @@
 [Axelrod domains](assets/images/axelrod_snapshots_new.pdf), [Axelrod phase transition](assets/images/Axelrod_Phase_Transition_F_vs_q.pdf)
 
 **Try it**
-See `models/Axelrod_lattice.snapshots.py` for domain coarsening, and see 'models/AXelrod_phase_transition.py' for the phase transitoon
+See `models/Axelrod_lattice.snapshots.py` for domain coarsening, and see `models/Axelrod_phase_transition.py` for the phase transitoon
