@@ -10,6 +10,6 @@ Reproductions of classic models in statistical physics & sociophysics:
 **Examples:** open `examples/` notebooks and `models/` scripts to reproduce the plots.
 
 ## Structure
-- **models/ # code
-- **examples/ # short notebooks
-- **docs/ # website pages (served by GitHub Pages)
+- models/     # code
+- examples/   # short notebooks
+- docs/       # website pages (served by GitHub Pages)
