@@ -12,5 +12,5 @@ A compact tour of three classic models—simple code, clear visuals, key takeawa
 ![Axelrod](assets/images/Axelrod_Phase_Transition_F_vs_q.pdf)
 ![NaSch](assets/images/NaSch_fundamental_diagram.pdf)
 
-**Run the notebooks**
-Open `examples/` in this repository to see short notebooks for each model.
+**Run the notebooks:**
+Open `examples/` `models/` in this repository to see short notebooks and python scripts for these models.
